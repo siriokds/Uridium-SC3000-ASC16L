@@ -1,0 +1,19 @@
+# build output
+*.asc
+*.lst
+*.sym
+log.txt
+rom.h
+
+# game data is not distributed
+*.miz
+*.pck
+*.PSG
+*.mgb
+*.bin
+*.rom
+sfx_data.asm
+
+# OS / editor
+.DS_Store
+desktop.ini

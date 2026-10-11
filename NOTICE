@@ -1,0 +1,10 @@
+This repository contains the source code of the SC-3000 (ASC16L mapper) port
+of Uridium.
+
+The original MSX1 code and other assistance were provided by Arturo Ragozzini
+(Artrag), who kindly gave his permission to create and publish this release.
+
+Uridium is a game by Hewson Consultants. This repository is a fan port and is
+not affiliated with or endorsed by the original authors or publishers.
+No graphics, levels, music, sound effects, game data or ROM images are
+distributed here.
